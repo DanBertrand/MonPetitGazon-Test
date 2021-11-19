@@ -1,4 +1,4 @@
-import { TGameStats, TPlayer } from './types';
+import { TGameStats, TPlayer } from '../types';
 
 // Build object with position to reuse into function
 export const playerPositions = [
